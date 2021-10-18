@@ -6,5 +6,6 @@ Node script to update *.info.yml files for Drupal 9 upgrade.
 
 ```
 node ./path/to/drupal_upgrader/index.js web/modules/custom
+node ./path/to/drupal_upgrader/index.js web/themes
 ```
 
